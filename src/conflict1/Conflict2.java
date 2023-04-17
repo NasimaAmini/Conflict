@@ -5,8 +5,10 @@ public class Conflict2 {
 		
 		System.out.println("first code");
 		
+
 		System.out.println("iiiiiiiiiiiiii");
 		
+
 		
 	}
 	
