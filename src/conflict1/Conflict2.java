@@ -6,6 +6,8 @@ public class Conflict2 {
 		System.out.println("first code");
 		
 	}
+	
+	// added comment on remote
 
 	// added comment on workspace
 }
