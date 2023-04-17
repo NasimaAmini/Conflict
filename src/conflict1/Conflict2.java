@@ -5,6 +5,9 @@ public class Conflict2 {
 		
 		System.out.println("first code");
 		
+		
+		// added second comment 
+		
 	}
 	
 	// added comment on remote
