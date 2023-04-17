@@ -7,6 +7,9 @@ public class Conflict2 {
 		
 
 		System.out.println("iiiiiiiiiiiiii");
+	}
+		public static void sum(int a, int b) {
+			System.out.println(a+b);
 		
 
 		
